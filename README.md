@@ -1,2 +1,2 @@
-SourceHub
+Welcome to Source Hub
 ---
